@@ -1,0 +1,21 @@
+name: bitcoin_adoption_insights
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - pip
+  - scikit-learn
+  - pytest
+  - jupyter
+  - jupyterlab
+  - nltk
+  - flask
+  - sqlalchemy
+  - plotly
+  - requests
+  - matplotlib
+  - seaborn
+  - xgboost
